@@ -1,5 +1,59 @@
 # Battlestar Galactica
 
+## Table of Contents
+
+ - [Component List](#component-list)
+ - [Component Breakdown](#component-breakdown)
+ - [Setup](#setup)
+ - [Object of the Game](#object-of-the-game)
+ - [Creating the Loyalty Deck](#creating-the-loyalty-deck)
+ - [Setup Diagram](#setup-diagram)
+ - [Game Board Breakdown](#game-board-breakdown)
+ - [Game Turn](#game-turn)
+ - [Losing Resources](#losing-resources)
+ - [Core Rules](#core-rules)
+   - [Characters](#characters)
+   - [Title Cards](#title-cards)
+   - [The President and Quorum Cards](#the-president-and-quorum-cards)
+   - [The Admiral](#the-admiral)
+   - [Human Objective](#human-objective)
+   - [Character Sheets](#character-sheets)
+   - [Jumping the Fleet](#jumping-the-fleet)
+   - [FTL Control Jump](#ftl-control-jump)
+   - [Destination Cards](#destination-cards)
+   - [Using Abilities](#using-abilities)
+   - [Kobol Objective Card](#kobol-objective-card)
+   - [Skill Cards](#skill-cards)
+   - [Hand Limit and Discarding])(#hand-limit-and-discarding)
+   - [Destiny Deck](#destiny-deck)
+   - [Skill Checks](#skill-checks)
+   - [Game Board Skill Checks](#game-board-skill-checks)
+ - [Cylon Players](#cylon-players)
+   - [Cylon Objective](#cylon-objective)
+   - [Loyalty Cards](#loyalty-cards)
+   - [Determining if You Are a Cylon](#determining-if-you-are-a-cylon)
+   - [Revealed Cylon Players](#revealed-cylon-players)
+ - [Secrecy](#secrecy)
+ - [Ship Reference](#ship-reference)
+ - [Combat](#combat)
+   - [Cylon Attack Cards](#cylon-attack-cards)
+   - [Activating Cylon Ships](#activating-cylon-ships)
+   - [Attacking](#attacking)
+   - [Attack Table](#attack-table)
+   - [Jumping During Combat](#jumping-during-combat)
+   - [Activating Vipers](#activating-vipers)
+   - [Piloting Vipers](#piloting-vipers)
+   - [Piloting a Viper and Attacking](#piloting-a-viper-and-attacking)
+ - [Other Rules](#other-rules)
+   - [Line of Succession](#line-of-succession)
+   - [Component Limitations](#component-limitations)
+   - [Adjusting Difficulty](#adjusting-difficulty)
+   - [Human Player Strategy](#human-player-strategy)
+   - [Cylon Player Strategy](#cylon-player-strategy)
+   - [Card Clarifications](#card-clarifications)
+   - [Frequently Overlooked Rules](#frequently-overlooked-rules)
+ - [Quick Reference](#quick-reference)
+
 The Cylons were created to make life easier on the Twelve Colonies. And then
 the day came when the Cylons decided to kill their masters. After a long and
 bloody struggle, an armistice was declared and the Cylons left for another
@@ -249,11 +303,12 @@ the game board. These dials are used to track the fleet's dwindling resources
 throughout each game. To attach a dial, simply push one side of a plastic
 connector through the board, and the other side through the dial. Then push
 them together until they fit snugly together. Once attached, they should not be
-removed. The number a given dial shows represents how much of that particular
-resource is available at that time. When a resource is lost or gained for any
-reason, its dial is rotated to indicate the new total. If any resource is
-reduced to zero (at the end of a player's turn), then the human players lose
-the game.
+removed.
+
+The number a given dial shows represents how much of that particular resource
+is available at that time. When a resource is lost or gained for any reason,
+its dial is rotated to indicate the new total. If any resource is reduced to
+zero (at the end of a player's turn), then the human players lose the game.
 
 ## Object of the Game
 
@@ -280,23 +335,23 @@ page 24).
 
 Three Players: Create a six-card deck consisting of:
 
-1x "You Are a Cylon" card
-5x "You Are Not a Cylon" cards
+ - 1x "You Are a Cylon" card
+ - 5x "You Are Not a Cylon" cards
 
 Four Players: Create a seven-card deck consisting of:
 
-1x "You Are a Cylon" card
-6x "You Are Not a Cylon" cards
+ - 1x "You Are a Cylon" card
+ - 6x "You Are Not a Cylon" cards
 
 Five Players: Create a 10-card deck consisting of:
 
-2x "You Are a Cylon" cards
-8x "You Are Not a Cylon" cards
+ - 2x "You Are a Cylon" cards
+ - 8x "You Are Not a Cylon" cards
 
 Six Players: Create an 11-card deck consisting of:
 
-2x "You Are a Cylon" cards
-9x "You Are Not a Cylon" cards
+ - 2x "You Are a Cylon" cards
+ - 9x "You Are Not a Cylon" cards
 
 3. Add one extra "You Are Adjust Deck for Characters: Not a Cylon" card for
    each "Gauis Baltar" or "Sharon Valerii" character playing.
@@ -407,12 +462,12 @@ is over, and they hand the current player token clockwise to
 the player on their left. This player then begins their turn starting
 with the Receive Skills step.
 
-## Game Turn Detail
+### Game Turn Detail
 
 The following section explains each step of a player's turn in
 detail.
 
-### Receive Skills Step
+#### Receive Skills Step
 
 During this step, the current player draws Skill Cards
 according to the skill set listed on their character sheet. The
@@ -427,15 +482,13 @@ receives Skill Cards, they must first decide how many cards they will draw from
 each type. The total number of cards that they draw must be equal to the number
 listed on their sheet.
 
-Example of a Multi-Skill
-
 Example: It is the start of Lee "Apollo" Adama's turn. They therefore draw two
 piloting and one tactics Skill Cards according to the skill set listed on their
 character sheet. They may then decide to draw two leadership or two politics
 Skill Cards - or one of each - since they have a 2 leadership/politics
 multi-skill.
 
-### Movement Step
+#### Movement Step
 
 During this step, the current player may move their character token to another
 location if they wish. If they move to a different ship, they must discard one
@@ -449,7 +502,7 @@ the player's character is piloting a viper, they may move to an adjacent space
 area during this step, or may discard a Skill Card to move to a location on
 Galactica or Colonial One and return their viper to the "Reserves."
 
-### Action Step
+#### Action Step
 
 During this step, the current player chooses one action to
 perform. The action types are listed below, and are usually
@@ -472,19 +525,19 @@ identified by the word "Action:" followed by an ability.
  - If the player does not wish to perform any Do Nothing: actions, they may
    decide to do nothing during this step and proceed to the Crisis step.
 
-### Crisis Step
+#### Crisis Step
 
 During this step, the current player draws the top card of the Crisis deck,
 reads it aloud, and then resolves it. There are three types of Crisis Cards:
 Cylon attacks, skill checks, and events.
 
-#### Cylon Attack Crises
+##### Cylon Attack Crises
 
 These Crisis Cards feature an image of Galactica and some surrounding ships.
 When resolving a Cylon attack Crisis Card, simply follow the steps listed on
 it. Then discard the card unless instructed to keep the card in play.
 
-#### Skill Check Crises
+##### Skill Check Crises
 
 These Crisis Cards list a difficulty and one or more skill types, listed as
 colored boxes, in the upper left corner. These cards are resolved according to
@@ -493,7 +546,7 @@ based on whether the players pass or fail the skill check. Some of these cards
 give the current player, the President, or the Admiral the choice to either
 resolve the skill check or carry out some alternate instruction.
 
-#### Event Crises
+##### Event Crises
 
 Any Crisis Card that is not a Cylon attack or skill check is an event. These
 crises have instructions that must be immediately followed. Some of them
@@ -505,7 +558,7 @@ If there is at least one Cylon ship in play, then the Cylon ships may move or
 attack based on the icon on the bottom left of the Crisis Card (see "Activating
 Cylon Ships" on page 22).
 
-### Prepare for Jump Step
+#### Prepare for Jump Step
 
 If the drawn Crisis Card has the "prepare for jump" icon on its lower right
 corner, then the fleet token moves one space ahead (toward the "Auto Jump"
@@ -919,7 +972,7 @@ Cylon, or is a Sympathizer (see "Sympathizer" on page 19).
 Important: If a player has at least one "You are a Cylon" card, then they are a
 Cylon player and ignores all "You are not a Cylon" cards that they may have.
 
-### Sleeper Agent Phase
+#### Sleeper Agent Phase
 
 Once the fleet has traveled at least four distance, each
 player (including revealed Cylon players) is dealt one card
@@ -929,7 +982,7 @@ and resolve it. If they are a revealed Cylon player, then they may
 first give the card to any other player (who then immediately
 resolves it).
 
-## Sympathizer
+#### Sympathizer
 
 In addition to human and Cylon players, there may be a Sympathizer inside the
 fleet. The "You Are a Sympathizer" card represents a human or Cylon who wishes
