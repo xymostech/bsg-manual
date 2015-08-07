@@ -24,7 +24,7 @@
    - [Using Abilities](#using-abilities)
    - [Kobol Objective Card](#kobol-objective-card)
    - [Skill Cards](#skill-cards)
-   - [Hand Limit and Discarding])(#hand-limit-and-discarding)
+   - [Hand Limit and Discarding](#hand-limit-and-discarding)
    - [Destiny Deck](#destiny-deck)
    - [Skill Checks](#skill-checks)
    - [Game Board Skill Checks](#game-board-skill-checks)
