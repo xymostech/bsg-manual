@@ -32,38 +32,38 @@ their team to victory.
  - Game Board
  - 10 Character Sheets
  - 52 Cardboard Tokens consisting of
-   – 4 Resource Dials
-   – 10 Character Tokens
-   – 4 Piloting Tokens
-   – 2 Nuke Tokens
-   – 12 Civilian Ship Tokens
-   – 2 Basestars
-   – 4 Centurion Markers
-   – 4 Basestar Damage Tokens
-   – 8 Galactica Damage Tokens
-   – 1 Fleet Marker
-   – 1 Current Player Token
+   - 4 Resource Dials
+   - 10 Character Tokens
+   - 4 Piloting Tokens
+   - 2 Nuke Tokens
+   - 12 Civilian Ship Tokens
+   - 2 Basestars
+   - 4 Centurion Markers
+   - 4 Basestar Damage Tokens
+   - 8 Galactica Damage Tokens
+   - 1 Fleet Marker
+   - 1 Current Player Token
  - 110 Large Cards consisting of
-   – 70 Crisis Cards
-   – 16 Loyalty Cards
-   – 17 Quorum Cards
-   – 5 Super Crisis Cards
-   – 1 President Title Card
-   – 1 Admiral Title Card
+   - 70 Crisis Cards
+   - 16 Loyalty Cards
+   - 17 Quorum Cards
+   - 5 Super Crisis Cards
+   - 1 President Title Card
+   - 1 Admiral Title Card
  - 128 Small Cards consisting of
-   – 21 Leadership Skill Cards
-   – 21 Tactics Skill Cards
-   – 21 Politics Skill Cards
-   – 21 Piloting Skill Cards
-   – 21 Engineering Skill Cards
-   – 22 Destination Cards
-   – 1 Kobol Objective Card
+   - 21 Leadership Skill Cards
+   - 21 Tactics Skill Cards
+   - 21 Politics Skill Cards
+   - 21 Piloting Skill Cards
+   - 21 Engineering Skill Cards
+   - 22 Destination Cards
+   - 1 Kobol Objective Card
  - 1 Eight-sided Die
  - 32 Plastic Ships consisting of
-   – 8 Vipers
-   – 4 Raptors
-   – 16 Cylon Raiders
-   – 4 Cylon Heavy Raiders
+   - 8 Vipers
+   - 4 Raptors
+   - 16 Cylon Raiders
+   - 4 Cylon Heavy Raiders
  - 4 Plastic Connectors (for resource dials)
  - 10 Plastic Character Stands
 
@@ -432,7 +432,7 @@ Example of a Multi-Skill
 Example: It is the start of Lee "Apollo" Adama's turn. They therefore draw two
 piloting and one tactics Skill Cards according to the skill set listed on their
 character sheet. They may then decide to draw two leadership or two politics
-Skill Cards – or one of each – since they have a 2 leadership/politics
+Skill Cards - or one of each - since they have a 2 leadership/politics
 multi-skill.
 
 ### Movement Step
@@ -523,9 +523,9 @@ The four resources (fuel, food, morale, and population) are all vital to the
 survival of humanity. These resources are usually lost due to Crisis Cards,
 civilian ships being destroyed, or Galactica damage tokens.
 
-Crisis cards list resource loss as text, for example "–1 population," while
+Crisis cards list resource loss as text, for example "-1 population," while
 tokens list resource loss as a number of red icons. For example, one red
-population icon means the same as "–1 population." The list of resource icons
+population icon means the same as "-1 population." The list of resource icons
 is found below as well as on the game board.
 
 Whenever a resource is lost for any reason, the appropriate resource dial is
@@ -657,7 +657,7 @@ The current player rolls the die, and if a "6" or lower is rolled, then a
 number of population is lost equal to the number listed on the current space of
 the Jump Preparation track. Players then follow all steps for "Jumping the
 Fleet" on this page. Example: The fleet token is on the second-to-last space of
-the Jump Preparation track (the –1 population space). The current player
+the Jump Preparation track (the -1 population space). The current player
 activates the "FTL Control" location to jump the fleet. They roll a die, and it
 is a "5" (which is "6" or less), so the fleet loses 1 population.
 
@@ -854,8 +854,8 @@ Example of a Skill Check
 
 ### Game Board Skill Checks
 
-Three game board locations – "Administration," "Admiral's
-Quarters," and the "Brig," – instruct the player using the
+Three game board locations - "Administration," "Admiral's
+Quarters," and the "Brig," - instruct the player using the
 location to carry out a skill check. In these cases, a skill check
 is resolved (following the rules on page 16). The specific rules
 for skill checks at these locations are found below:
@@ -1005,7 +1005,7 @@ forced to discard Skill Cards.
 #### Revealed Cylon Players' Skill Cards
 
 Revealed Cylon players only draw two Skill Cards on their turns. A revealed
-Cylon player may – at their option – play one (and only one) Skill Card into
+Cylon player may - at their option - play one (and only one) Skill Card into
 each skill check that is resolved.
 
 Revealed Cylon players may not use actions or abilities listed on Skill Cards.
