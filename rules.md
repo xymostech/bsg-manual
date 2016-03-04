@@ -371,6 +371,8 @@ skill, it may be a good idea to choose one who does have it.
 
 ## Setup Diagram
 
+![](http://i.imgur.com/i07ce0q.png)
+
 1. Loyalty Deck
 2. Destination Deck and Kobol Objective
 3. President Title Card and Starting Quorum Card
@@ -393,6 +395,8 @@ skill, it may be a good idea to choose one who does have it.
 19. A Player's Loyalty Card
 
 ## Game Board Breakdown
+
+![](http://i.imgur.com/91Jy4Xb.png)
 
 1. Destiny Deck Location: Two cards of each Skill Card type are placed here to
    form the Destiny Deck. Two cards from this deck are added to every skill
