@@ -681,8 +681,8 @@ referred to as "jumping." Whenever the fleet jumps, the Admiral draws
 Destination Cards to determine where the fleet jumps to. To choose the
 destination, the Admiral performs the following steps:
 
-1. Remove Ships: Remove all ships from the game board (see "Jumping During
-   Combat" on page 25).
+1. Remove Ships: Remove all ships from the game board (see [Jumping During
+   Combat](#jumping-during-combat)).
 2. Choose Destination: The Admiral draws two cards from the Destination deck,
    chooses one, and places the other on the bottom of the deck.
 3. Follow Instructions: The Admiral places the chosen card faceup next to the
@@ -742,8 +742,7 @@ players perform the following instructions. These instructions are also
 summarized on the Kobol Objective Card.
 
  - When Sleeper Agents: four or more units of distance have been traveled, the
-   remaining Loyalty Cards are dealt out (see "Sleeper Agents Phase" on page
-   18).
+   remaining Loyalty Cards are dealt out (see [Sleeper Agents Phase](#sleeper-agent-phase)).
  - After Reach Kobol: eight or more units of distance have been traveled, the
    humans are only one jump away from winning the game. The next time the
    humans jump, they do not draw a Destination Card; instead, they simply win
@@ -830,7 +829,7 @@ resolved as follows:
 
 1. Read Card: The current player reads the entire card (or location) out loud
    to all players. Players may then discuss what they would like to do
-   (following the guidelines under "Secrecy Rules" on page 20). If the card
+   (following the guidelines under [Secrecy Rules](#secrecy)). If the card
    requires the current player, the President, or the Admiral to make a choice,
    they must make the decision at this time. Any choice that does not have a
    pass/fail effect requires players to carry out specific instructions instead
@@ -905,7 +904,7 @@ Example of a Skill Check
 Three game board locations - "Administration," "Admiral's
 Quarters," and the "Brig," - instruct the player using the
 location to carry out a skill check. In these cases, a skill check
-is resolved (following the rules on page 16). The specific rules
+is resolved (following the [skill check rules](#skill-checks)). The specific rules
 for skill checks at these locations are found below:
 
  - Administration: The current player chooses any player to nominate for the
@@ -947,12 +946,12 @@ completing the Kobol Objective. There are three possible ways of doing this:
    Cylon players win (see [Activate Heavy Raiders and Centurions](#active-heavy-raiders-and-centurions)).
  - Galactica Destroyed: If six or more locations on Galactica have damage
    tokens on them at the same time, then Galactica is destroyed and the Cylon
-   players win (see "Damage Tokens" on page 25).
+   players win (see [Damage Tokens](#damage-tokens-1)).
 
 ### Loyalty Cards
 
 Each player starts the game with one Loyalty Card. Later in the game, players
-receive additional Loyalty Cards (see "Sleeper Agent Phase" on page 19), which
+receive additional Loyalty Cards (see [Sleeper Agent Phase](#sleeper-agent-phase)), which
 increase their chances of being Cylon players.
 
 Loyalty Cards are kept facedown, but their owners may look at them at any time.
@@ -962,7 +961,7 @@ single Loyalty Card belonging to a player who has more than one, the card
 viewed is selected randomly.
 
 Each Loyalty Card specifies whether the controlling player is a Cylon, is not a
-Cylon, or is a Sympathizer (see "Sympathizer" on page 19).
+Cylon, or is a Sympathizer (see [Sympathizer](#sympathizer)).
 
 Important: If a player has at least one "You are a Cylon" card, then they are a
 Cylon player and ignores all "You are not a Cylon" cards that they may have.
@@ -1010,7 +1009,7 @@ steps:
 
 1. Discard: The player discards down to three Skill Cards.
 2. Lose Titles: If the player had any Title Cards, they are given to a
-   different player (see "Line of Succession" on page 28).
+   different player (see [Line of Succession](#line-of-succession)).
 3. Resurrect: The player moves their character token to the "Resurrection Ship"
    Cylon location.
 4. Receive Super Crisis: The player receives one random Super Crisis Card. This
@@ -1191,7 +1190,7 @@ Galactica" taking the lowest).
    area towards the nearest civilian ship. If several civilian ships are
    equidistant, it moves clockwise around Galactica.
 4. Attack Galactica: If there are no civilian ships on the game board, the
-   raider attacks Galactica (see "Attacking" on page 24).
+   raider attacks Galactica (see [Attacking](#attacking)).
 
 If there are no raiders on the game board when raiders are activated, two
 raiders are launched from each basestar. If there are no basestars in play,
@@ -1359,7 +1358,7 @@ When a player activates a viper, they must choose one of the following options:
    "around" it, between directly adjacent space areas.
  - Attack with a Viper: The player chooses a viper and a Cylon ship that are in
    the same space area. They then roll one eight-sided die to resolve an attack
-   following the rules under "Attacking" on page 24.
+   following the rules under [Attacking](#attacking).
 
 Each viper may be activated any number of times during a player's turn, but
 players may not activate ships that are being piloted by another player. Vipers
