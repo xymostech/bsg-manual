@@ -82,44 +82,44 @@ their team to victory.
 
 ## Component List
 
- - This Rulebook
- - Game Board
- - 10 Character Sheets
- - 52 Cardboard Tokens consisting of
-   - 4 Resource Dials
-   - 10 Character Tokens
-   - 4 Piloting Tokens
-   - 2 Nuke Tokens
-   - 12 Civilian Ship Tokens
-   - 2 Basestars
-   - 4 Centurion Markers
-   - 4 Basestar Damage Tokens
-   - 8 Galactica Damage Tokens
-   - 1 Fleet Marker
-   - 1 Current Player Token
- - 110 Large Cards consisting of
-   - 70 Crisis Cards
-   - 16 Loyalty Cards
-   - 17 Quorum Cards
-   - 5 Super Crisis Cards
-   - 1 President Title Card
-   - 1 Admiral Title Card
- - 128 Small Cards consisting of
-   - 21 Leadership Skill Cards
-   - 21 Tactics Skill Cards
-   - 21 Politics Skill Cards
-   - 21 Piloting Skill Cards
-   - 21 Engineering Skill Cards
-   - 22 Destination Cards
-   - 1 Kobol Objective Card
- - 1 Eight-sided Die
- - 32 Plastic Ships consisting of
-   - 8 Vipers
-   - 4 Raptors
-   - 16 Cylon Raiders
-   - 4 Cylon Heavy Raiders
- - 4 Plastic Connectors (for resource dials)
- - 10 Plastic Character Stands
+  - This Rulebook
+  - Game Board
+  - 10 Character Sheets
+  - 52 Cardboard Tokens consisting of
+    - 4 Resource Dials
+    - 10 Character Tokens
+    - 4 Piloting Tokens
+    - 2 Nuke Tokens
+    - 12 Civilian Ship Tokens
+    - 2 Basestars
+    - 4 Centurion Markers
+    - 4 Basestar Damage Tokens
+    - 8 Galactica Damage Tokens
+    - 1 Fleet Marker
+    - 1 Current Player Token
+  - 110 Large Cards consisting of
+    - 70 Crisis Cards
+    - 16 Loyalty Cards
+    - 17 Quorum Cards
+    - 5 Super Crisis Cards
+    - 1 President Title Card
+    - 1 Admiral Title Card
+  - 128 Small Cards consisting of
+    - 21 Leadership Skill Cards
+    - 21 Tactics Skill Cards
+    - 21 Politics Skill Cards
+    - 21 Piloting Skill Cards
+    - 21 Engineering Skill Cards
+    - 22 Destination Cards
+    - 1 Kobol Objective Card
+  - 1 Eight-sided Die
+  - 32 Plastic Ships consisting of
+    - 8 Vipers
+    - 4 Raptors
+    - 16 Cylon Raiders
+    - 4 Cylon Heavy Raiders
+  - 4 Plastic Connectors (for resource dials)
+  - 10 Plastic Character Stands
 
 ## Component Breakdown
 
@@ -127,14 +127,14 @@ their team to victory.
 
 The game board is where the main action of the game takes place. It depicts the
 locations on Galactica and Colonial One, as well as the areas of space
-surrounding them. For a full diagram of the game board, see "Game Board
-Breakdown" on page 8.
+surrounding them. For a full diagram of the game board, see [Game Board
+Breakdown](#game-board-breakdown).
 
 ### Resource Dials and Plastic Connectors
 
 The resource dials are used to track the dwindling resources of the humans.
 They are attached to the game board using the plastic connectors (see the
-"Installing Resource Dials" diagram on page 5).
+[Installing Resource Dials diagram](#installing-resource-dials)).
 
 ### Character Sheets
 
@@ -176,7 +176,7 @@ and launch raiders during combat.
 
 These markers are used to track progress on the Boarding Party track. Should
 any of these tokens reach the end of the track, the humans lose the game (see
-"Activate Heavy Raiders and Centurions" on page 24).
+[Activate Heavy Raiders and Centurions](#active-heavy-raiders-and-centurions)).
 
 ### Damage Tokens
 
@@ -187,7 +187,7 @@ a basestar is hit by an enemy attack.
 
 This marker is used to track progress on the Jump Preparation track. When this
 token reaches the end of the track, the fleet jumps to its next destination
-(see "Jumping the Fleet" on page 13).
+(see [Jumping the Fleet](#jumping-the-fleet)).
 
 ### Destination Cards
 
@@ -226,14 +226,13 @@ Cylon attacks. These cards are the main way resources are lost.
 ### Super Crisis Cards
 
 These five cards represent extremely dangerous crises. When a Cylon player
-reveals themself, they receive one of these cards (see "Revealed Cylon Players"
-on page 19).
+reveals themself, they receive one of these cards (see [Revealed Cylon Players](#revealed-cylon-players)).
 
 ### Loyalty Cards
 
 Each player is dealt one Loyalty Card at the start of the game, and another one
 halfway through the game. These cards are kept secret and inform each player
-whether or not they are a Cylon (see "Revealed Cylon Players" on page 19).
+whether or not they are a Cylon (see [Revealed Cylon Players](#revealed-cylon-players)).
 
 ### Eight-sided Die
 
@@ -277,8 +276,8 @@ Follow these steps to prepare to play Battlestar Galactica: The Board Game.
    William Adama, Saul Tigh, and Helo Agathon. The Admiral is then given the
    two nuke tokens, and the President shuffles the Quorum deck and draws one
    Quorum Card.
-6. Set Up Loyalty Deck: Set up the Loyalty deck according to the "Creating the
-   Loyalty Deck" sidebar on page 6.
+6. Set Up Loyalty Deck: Set up the Loyalty deck according to [Creating the
+   Loyalty Deck](#creating-the-loyalty-deck).
 7. Set Up Other Cards: Shuffle the Quorum deck, Crisis deck, Super Crisis deck,
    and Destination deck and then place them next to the game board. Then
    separate the Skill Cards into five decks by type, as shown on their faces.
@@ -287,7 +286,7 @@ Follow these steps to prepare to play Battlestar Galactica: The Board Game.
    Kobol Objective Card faceup next to the Destination deck.
 8. Receive Skills: Each player, except the starting player, draws a total of
    three Skill Cards from among any of the cards he can draw during his Receive
-   Skills step (see "Receive Skills Step" on page 9). The starting player does
+   Skills step (see [Receive Skills Step](#receive-skills-step)). The starting player does
    not receive Skill Cards now, but will draw Skill Cards at the start of his
    turn.
 9. Create Destiny Deck: Deal two Skill Cards of each skill type facedown onto
@@ -316,14 +315,13 @@ The object of the game for a given player depends on which team they belong to.
 A player's team is determined by the Loyalty Cards they receive throughout the
 game (see [[Loyalty Cards]]). All human players win the game if they travel at
 least eight units of distance (as specified by the [[Kobol Objective Card]])
-and then jump one final time (see "Human Objective" on page 12).
+and then jump one final time (see [Human Objective](#human-objective)).
 
 All Cylon players win the game by preventing the humans from reaching their
 objective. They usually accomplish this goal by running the fleet out of a
 resource (food, fuel, morale, or population), but can also win by destroying
-Galactica (see "Damage Tokens" on page 25) or successfully invading Galactica
-with centurion boarding parties (see "Activate Heavy Raiders and Centurions" on
-page 24).
+Galactica (see [Damage Tokens](#damage-tokens-1)) or successfully invading Galactica
+with centurion boarding parties (see [Activate Heavy Raiders and Centurions](#active-heavy-raiders-and-centurions)).
 
 ## Creating the Loyalty Deck
 
@@ -438,24 +436,22 @@ game turns in order until either the human or Cylon players have won the game.
 Each game turn consists of the following steps, carried out in order:
 
 1. Receive Skills Step: The current player draws the number and types of Skill
-   Cards listed on their character sheet (see "Receive Skills Step" on this
-   page).
+   Cards listed on their character sheet (see [Receive Skills Step](#receive-skills-step)).
 2. Movement Step: The current player may move to a different location. If they
    move to a different ship (from Galactica to Colonial One or vice versa),
    they must discard one Skill Card from their hand.
 3. Action Step: The current player chooses one action to perform. Options
    include the actions listed on their location, character sheet, and Skill
-   Cards (see the full list of actions on page 10).
+   Cards (see the [full list of actions](#action-step)).
 4. Crisis Step: The top card of the Crisis deck is drawn and then resolved (see
-   "Crisis Step" on page 10).
+   [Crisis Step](#crisis-step)).
 5. Activate Cylon Ships Step (if necessary): If any are in play, Cylon ships
-   are activated according to the Crisis Card drawn (see "Activate Cylon Ships
-   Step" on page 11).
+   are activated according to the Crisis Card drawn (see [Activate Cylon Ships
+   Step](#activate-cylon-ships-step)).
 6. Jump Step (if necessary): If the Crisis Card Prepare for has the "prepare
-   for jump" icon on it (see "Prepare for Jump Step" on page 11), the fleet
+   for jump" icon on it (see [Prepare for Jump Step](#prepare-for-jump-step)), the fleet
    token advances one space up the Jump Preparation track. If the token reaches
-   the end of this track, then the fleet jumps (see "Jumping the Fleet" on page
-   13).
+   the end of this track, then the fleet jumps (see [Jumping the Fleet](#jumping-the-fleet)).
 
 After the Prepare for Jump step, the current player's turn
 is over, and they hand the current player token clockwise to
@@ -512,7 +508,7 @@ identified by the word "Action:" followed by an ability.
    character's current location.
  - The player may play a Skill Card from Skill Card Action: their hand to
    perform the action specified on the card. Note that not all Skill Cards have
-   actions on them (see "Skill Cards" on page 15).
+   actions on them (see [Skill Cards](#skill-cards-1)).
  - The player may perform an action Character Action: listed on their character
    sheet. Note that only some character sheets have actions listed on them.
  - If the player is piloting a viper, they may Activate their Viper:
@@ -521,7 +517,7 @@ identified by the word "Action:" followed by an ability.
    provides them with an action, then they may perform it during this step.
  - The character may reveal one of their "You Loyalty Card: are a Cylon"
    Loyalty Cards to perform the specified action on it. They then follow the
-   rules for revealed Cylon players on page 19.
+   [rules for revealed cylon players](#revealed-cylon-players).
  - If the player does not wish to perform any Do Nothing: actions, they may
    decide to do nothing during this step and proceed to the Crisis step.
 
@@ -541,7 +537,7 @@ it. Then discard the card unless instructed to keep the card in play.
 
 These Crisis Cards list a difficulty and one or more skill types, listed as
 colored boxes, in the upper left corner. These cards are resolved according to
-the rules for skill checks (see "Skill Checks" on page 16) and have outcomes
+the rules for skill checks (see [Skill Checks](#skill-checks)) and have outcomes
 based on whether the players pass or fail the skill check. Some of these cards
 give the current player, the President, or the Admiral the choice to either
 resolve the skill check or carry out some alternate instruction.
@@ -555,16 +551,16 @@ provide a decision for the current player, the President, or the Admiral.
 #### Activate Cylon Ships Step
 
 If there is at least one Cylon ship in play, then the Cylon ships may move or
-attack based on the icon on the bottom left of the Crisis Card (see "Activating
-Cylon Ships" on page 22).
+attack based on the icon on the bottom left of the Crisis Card (see [Activating
+Cylon Ships](#activating-cylon-ships)).
 
 #### Prepare for Jump Step
 
 If the drawn Crisis Card has the "prepare for jump" icon on its lower right
 corner, then the fleet token moves one space ahead (toward the "Auto Jump"
 space) on the Jump Preparation track. If this causes the token to move to the
-"Auto Jump" space, then the fleet jumps to a new destination (see "Jumping the
-Fleet" on page 13).
+"Auto Jump" space, then the fleet jumps to a new destination (see [Jumping the
+Fleet](#jumping-the-fleet)).
 
 After this step, the current player's turn is over. They discard any Crisis
 Cards drawn this turn, and hand the current player token to the player on their
@@ -605,7 +601,7 @@ sheet.
  - Each character has two positive Character Abilities: abilities and one
    negative ability. Some of these abilities are passive (always affecting the
    character) while others require the player to use them as an action (see
-   "Action Step" on page 10).
+   [Action Step](#jumping-the-fleet)).
  - Each character sheet lists the skills the Skill Set: character has expertise
    in. At the start of the player's turn, they gain the number and types of
    Skill Cards listed in their character's skill set. When a character is
@@ -652,7 +648,7 @@ two nuke tokens. These tokens can be devastatingly effective against basestars,
 but are an extremely limited resource.
 
 Second, the Admiral is the player who decides which destination the fleet
-travels to when jumping (see "Jumping the Fleet" on the following page). This
+travels to when jumping (see [Jumping the Fleet](#jumping-the-fleet)). This
 decision can be extremely beneficial or harmful to the human players.
 
 ### Human Objective
@@ -660,15 +656,14 @@ decision can be extremely beneficial or harmful to the human players.
 For the human players to win the game, they must successfully jump the fleet
 enough times to reach Kobol. Once the fleet has reached Kobol, the humans
 immediately win the game. For information on the Cylon players' objective, see
-"Cylon Objective" on page 18.
+[Cylon Objective](#cylon-objective).
 
 The fleet jumps to a new location in one of two ways.
 
 1. The fleet token is moved to the "Auto Jump" space of the Jump Preparation
-   track (see "Prepare for Jump Step" on page 11).
+   track (see [Prepare for Jump Step](#prepare-for-jump-step)).
 2. A player activates the "FTL Control" location. If the fleet jumps this way,
-   then some population may be lost (see "FTL Control Jump" on the following
-   page).
+   then some population may be lost (see [FTL Control Jump](#ftl-control-jump)).
 
 ### Character Sheets
 
@@ -949,7 +944,7 @@ completing the Kobol Objective. There are three possible ways of doing this:
    the same turn without losing the game.
  - Centurion Invasion: If at least one centurion marker reaches the end of the
    Boarding Party track, then the crew of the Galactica are killed and the
-   Cylon players win (see "Activate Heavy Raiders and Centurions" on page 24).
+   Cylon players win (see [Activate Heavy Raiders and Centurions](#active-heavy-raiders-and-centurions)).
  - Galactica Destroyed: If six or more locations on Galactica have damage
    tokens on them at the same time, then Galactica is destroyed and the Cylon
    players win (see "Damage Tokens" on page 25).
@@ -996,8 +991,7 @@ the "Brig" location. This card is then treated as a "You Are Not a Cylon" card.
 
 If every resource is more than half full (not in the red zone), then this
 player becomes a revealed Cylon player for the remainder of the game and
-follows the game turn steps described under "Revealed Cylon Players" on this
-page (except for steps "4" and "5.") This player may never activate the "Cylon
+follows the game turn steps described under [Revealed Cylon Players](#revealed-cylon-players) (except for steps "4" and "5.") This player may never activate the "Cylon
 Fleet" location or play Super Crisis Cards.
 
 ### Determining if You Are a Cylon
@@ -1006,7 +1000,7 @@ Carl "Helo" Agathon has two Loyalty Cards, one "You Are a Cylon" card and one
 "You Are Not a Cylon" card. Since they have at least one "You are a Cylon"
 card, they are a Cylon player. They may reveal themself on their turn (as an
 action) to perform the special ability listed on their Loyalty Card. If they do
-so, they become a revealed Cylon player (see below).
+so, they become a [revealed Cylon player](#revealed-cylon-players).
 
 ### Revealed Cylon Players
 
